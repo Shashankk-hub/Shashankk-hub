@@ -1,6 +1,11 @@
 # Hi 👋 I'm Shashank Kumar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Code.+Build.+Break.+Repeat.;Future+Software+Engineer;Exploring+Low+Level+to+High+Level+Programming;Turning+Ideas+Into+Projects)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZ6bXpwMG93aGQ2cjFydDI4cDhvYmYyYXZ1cnlndWhybW9vZnhtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="500">
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Code.+Build.+Break.+Repeat.;Future+Software+Engineer;Turning+Ideas+Into+Projects)](https://git.io/typing-svg)
+
 
 🚀 **Computer Science Student | Builder | Problem Solver**
 
