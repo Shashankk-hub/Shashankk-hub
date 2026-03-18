@@ -71,4 +71,7 @@
 
 ---
 
-⭐ **"Code is like humor. When you have to explain it, it’s bad."**
+## ✍️  Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
