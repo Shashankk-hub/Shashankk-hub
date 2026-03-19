@@ -82,4 +82,4 @@
 ## ✍️  Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00F7FF,50:8A2BE2,75:FF00FF,100:000000&height=70&section=footer"/> </p>
